@@ -7,4 +7,5 @@ git push origin master
 عند التغير
 $ git status
 git add .
+$ git status
 $ git commit -m التعليق""
